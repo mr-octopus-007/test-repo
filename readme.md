@@ -12,7 +12,7 @@ Some of the thigs I liked about the course are:
 
 1. Lucid explanation
 2. A lot of hands-on commands and excersices to play with
-3. COncisely written
+3. Concisely written
 
 ### A Random Image:
 
