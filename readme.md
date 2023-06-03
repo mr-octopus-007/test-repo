@@ -4,7 +4,7 @@
 
 ### About the Course:
 
-It is created out of a book authored by [Dr Sen Kross](https://twitter.com/seankros)
+It is created out of a book authored by [Dr Sean Kross](https://twitter.com/seankros)
 
 ### What's Good about the Course?
 
